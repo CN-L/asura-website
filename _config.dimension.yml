@@ -459,6 +459,7 @@ waline:
   avatar: mm
   meta: [nick, mail, link]
   pageSize: 10
+  lang: zh-cn
   visitor: true #文章阅读计数
   requiredFields: []
   script: //cdn.jsdelivr.net/npm/waline@1.0.14/dist/Waline.min.js
