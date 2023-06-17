@@ -451,12 +451,20 @@ valine:
 
 # waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
+# Waline 评论系统配置
 waline:
-  serverURL:  # Waline server address url
-  bg: # waline background
-  pageview: false
-  option:
-
+  enable: true
+  bg: waline background
+  placeholder: 请文明评论啊
+  avatar: mm
+  meta: [nick, mail, link]
+  pageSize: 10
+  visitor: true #文章阅读计数
+  requiredFields: []
+  script: //cdn.jsdelivr.net/npm/waline@1.0.14/dist/Waline.min.js
+  serverURL: waline-server-ten-ashy.vercel.app
+  pageview: true
+#   option:
 # utterances
 # https://utteranc.es/
 utterances:
