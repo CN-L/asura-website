@@ -1,0 +1,63 @@
+- var htmlClassHideAside = theme.aside.enable && theme.aside.hide ? 'hide-aside' : ''
+- page.aside = is_archive() ? theme.aside.display.archive: is_category() ? theme.aside.display.category : is_tag() ? theme.aside.display.tag : page.aside
+- var hideAside = !theme.aside.enable || page.aside === false ? 'hide-aside' : ''
+- var pageType = is_post() ? 'post' : 'page'
+
+doctype html
+html(lang=config.language class=htmlClassHideAside)
+  head
+    link(rel='stylesheet' type='text/css' href='/css/nerd.css')
+    link(rel='stylesheet' type='text/css' href='/css/loadingcar.css')
+    link(rel='stylesheet' type='text/css' href='https://cdn.jsdelivr.net/npm/hexo-butterfly-swiper-marcus/lib/skills.min.css')
+    link(rel='preload' as='style' type='text/css' href='/css/nerd.css')
+    link(rel='preload' as='font' type='font/ttf' href='/fonts/font.woff2' crossorigin='anonymous')
+    link(rel='stylesheet' href='https://cdn.jsdelivr.net/npm/element-ui@2.15.6/packages/theme-chalk/lib/index.css')
+    script(async='' data-pjax='' src='/js/custom.js')
+    script(src='/js/random.js')
+    script(async='' src='https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.min.js')
+    script(async='' src='https://cdn.jsdelivr.net/npm/element-ui@2.15.6/lib/index.js')
+    script(async='' data-pjax='' src='/js/linksbar.js')
+    script(async='' src='https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@latest/lib/carousel-touch.min.js')
+    include ./head.pug
+  body
+    if theme.preloader.enable
+      !=partial('includes/loading/index', {}, {cache: true})
+
+    if theme.background
+      #web_bg
+
+    //- if is_post()
+      include widget/card_post_toc.pug
+      
+    !=partial('includes/sidebar', {}, {cache: true})
+
+    if page.type !== '404'
+      #body-wrap(class=pageType)
+        include ./header/index.pug
+        include ./console.pug
+
+        main#content-inner.layout
+          if body
+            div!= body
+          else
+            block content
+
+        - var footerBg = theme.footer_bg
+        if (footerBg)
+          if (footerBg === true)
+            - var footer_bg = bg_img
+          else
+            - var footer_bg = theme.footer_bg.indexOf('/') !== -1 ? `background-image: url('${url_for(footerBg)}')` : `background: ${footerBg}`
+        else
+          - var footer_bg = ''
+
+        footer#footer(style='background: transparent')
+          !=partial('includes/footer', {}, {cache: true})
+
+    else
+      include ./404.pug
+
+    include ./rightside.pug
+    !=partial('includes/third-party/search/index', {}, {cache: true})
+    include ./additional-js.pug
+    span#fps
