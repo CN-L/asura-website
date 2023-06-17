@@ -1,0 +1,78 @@
+- class_name: 一起写博客的朋友们
+  link_list: # 构建友链列表
+    - name: 张洪Heo
+      link: https://blog.zhheo.com/
+      avatar: https://img.zhheo.com/i/2022/08/19/62ff32fa28da1.png
+    - name: YongeChanの小屋
+      link: https://Yongechan.site/
+      avatar: https://yongechan.site/avatar.png
+    - name: 鹿啵包の小窝
+      link: https://pochacco.top/
+      avatar: https://pochacco.top/img/Avatar.gif
+    - name: 陈鑫磊的博客
+      link: https://www.cxl2020mc.top
+      avatar: https://public.img.cxl2020mc.top/avatar.png
+    - name: 张时贰
+      link: https://zhangshier.vip
+      avatar: https://zhangshier.vip/Hexo_img/avatar.jpg
+    - name: Iceの小站
+      link: https://blog.081113.xyz/
+      avatar: 'https://cdn1.tianli0.top/gh/Wangyuxuan08/Pictures/%E5%A4%B4%E5%83%8F.jpg'
+    - name: storm-1614
+      link: https://storm-1614.github.io/
+      avatar: https://wlopck.gitee.io/img/links/storm-1614.jpg
+    - name: 一蓑烟雨的博客
+      link: https://easyf12.top/
+      avatar: https://img.easyf12.top/images/2022/10/15/634a8b4186889.webp
+    - name: 怕冷爱上雪
+      link: https://blog.4t.pw/
+      avatar: https://blog.4t.pw/img/favicon.webp
+    - name: Zaskyの小窝
+      link: https://jcblog.cf
+      avatar: https://pan.whgpc.com/view.php/2bf668a472418fedc1606842967960d7.jpg
+    - name: Reverse
+      link: https://blog.c12th.cn
+      avatar: https://npm.elemecdn.com/reverse-stu-allversions@1.0.0/img/202203071633899.gif
+    - name: inju银烛
+      link: https://inju.top/
+      avatar: https://npm.elemecdn.com/inju-tuku@1.0.4/img/head.png
+    - name: A cute boy
+      link: https://nn.imapower.cn
+      avatar: https://nn.imapower.cn/images/avatar.jpg
+    - name: Xlenco
+      link: http://xlenco.top/
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=1043865083&s=5
+    - name: 心流
+      link: https://blog.panghai.top
+      avatar: https://blog.panghai.top/img/avatar.png
+    - name: lmx0
+      link: https://www.lmx0.top/
+      avatar: https://s1.vika.cn/space/2023/01/08/ccf7921738f741dbbd0a261c4b8fce1c
+    - name: 晨曦的小屋
+      link: https://xcx2006.github.io
+      avatar: https://avatars.githubusercontent.com/u/78677516?s=400&u=ecb4efb1b3a8e369aa59914106ede3bcf8cc156d&v=4
+    - name: krau's blog
+      link: https://krau.top
+      avatar: https://krau.top/photo/avatar/avatar.jpg
+    - name: 九九九感冒绫 #站点名称
+      link: https://miku-39.love/ #站点链接
+      avatar: https://s2.loli.net/2022/10/18/soq82lvxakjeHB1.jpg #站长头像
+    - name: 酷小呵
+      link: https://www.kuhehe.top/
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=3111349763&s=100
+    - name: roydon
+      link: https://www.roydon.top
+      avatar: https://gcore.jsdelivr.net/gh/roydonGuo/CDN/avatar/ganyu.webp
+    - name: 爱吃肉的猫
+      link: https://meuicat.com/
+      avatar: https://meuicat.com/media/favicon.png
+- class_name: 对博客有帮助的人~
+  link_list: # 构建友链列表
+    - name: forward
+      link: https://fsllala.github.io/
+      avatar: https://cdn.bilicdn.tk/gh/fsllala/img@main/1656236729350avatar.jpg
+- class_name: 收录站
+  link_list: # 构建友链列表
+    - name: 博客录
+      link: https://boke.lu/
+      avatar: https://boke.lu/logo.png

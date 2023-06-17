@@ -1,0 +1,167 @@
+- class_name: 开启创造力
+  creativity_list:
+    - name: vue
+      color: "#b8f0ae"
+      icon: https://bu.dusays.com/2023/04/09/643293b6788bd.png # /img/creativity/vue.png
+    - name: React
+      color: "#222"
+      icon: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K
+    - name: Docker
+      color: "#57b6e6"
+      icon: https://bu.dusays.com/2023/04/28/644bdead5d78f.webp # /img/creativity/docker.webp
+    - name: Photoshop
+      color: "#4082c3"
+      icon: https://bu.dusays.com/2023/04/28/644bdead69ce6.webp # /img/creativity/ps.webp
+    - name: Node
+      color: "#333"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.1.1/img/svg/node-logo.svg
+    - name: Python
+      color: "#000"
+      icon: https://bu.dusays.com/2023/04/28/644bdead6dc5f.webp # /img/creativity/py.webp
+    - name: Vite
+      color: "#937df7"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/vite-logo.svg
+    - name: CSS3
+      color: "#2c51db"
+      icon: https://bu.dusays.com/2023/04/21/644284024536b.webp # /img/creativity/css.webp
+    - name: JS
+      color: "#f7cb4f"
+      icon: https://bu.dusays.com/2023/04/21/6442840245873.webp # /img/creativity/js.webp
+    - name: HTML
+      color: "#e9572b"
+      icon: https://bu.dusays.com/2023/04/21/6442840244ea8.webp # /img/creativity/html.webp
+    - name: Git
+      color: "#df5b40"
+      icon: https://bu.dusays.com/2023/04/21/6442840245495.webp # /img/creativity/git.webp
+    - name: vue
+      color: "#b8f0ae"
+      icon: https://bu.dusays.com/2023/04/09/643293b6788bd.png # /img/creativity/vue.png
+    - name: React
+      color: "#222"
+      icon: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K
+    - name: Docker
+      color: "#57b6e6"
+      icon: https://bu.dusays.com/2023/04/28/644bdead5d78f.webp # /img/creativity/docker.webp
+    - name: Photoshop
+      color: "#4082c3"
+      icon: https://bu.dusays.com/2023/04/28/644bdead69ce6.webp # /img/creativity/ps.webp
+    - name: Node
+      color: "#333"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.1.1/img/svg/node-logo.svg
+    - name: Python
+      color: "#000"
+      icon: https://bu.dusays.com/2023/04/28/644bdead6dc5f.webp # /img/creativity/py.webp
+    - name: Vite
+      color: "#937df7"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/vite-logo.svg
+    - name: CSS3
+      color: "#2c51db"
+      icon: https://bu.dusays.com/2023/04/21/644284024536b.webp # /img/creativity/css.webp
+    - name: JS
+      color: "#f7cb4f"
+      icon: https://bu.dusays.com/2023/04/21/6442840245873.webp # /img/creativity/js.webp
+    - name: HTML
+      color: "#e9572b"
+      icon: https://bu.dusays.com/2023/04/21/6442840244ea8.webp # /img/creativity/html.webp
+    - name: Git
+      color: "#df5b40"
+      icon: https://bu.dusays.com/2023/04/21/6442840245495.webp # /img/creativity/git.webp
+    - name: vue
+      color: "#b8f0ae"
+      icon: https://bu.dusays.com/2023/04/09/643293b6788bd.png # /img/creativity/vue.png
+    - name: React
+      color: "#222"
+      icon: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K
+    - name: Docker
+      color: "#57b6e6"
+      icon: https://bu.dusays.com/2023/04/28/644bdead5d78f.webp # /img/creativity/docker.webp
+    - name: Photoshop
+      color: "#4082c3"
+      icon: https://bu.dusays.com/2023/04/28/644bdead69ce6.webp # /img/creativity/ps.webp
+    - name: Node
+      color: "#333"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.1.1/img/svg/node-logo.svg
+    - name: Python
+      color: "#000"
+      icon: https://bu.dusays.com/2023/04/28/644bdead6dc5f.webp # /img/creativity/py.webp
+    - name: Vite
+      color: "#937df7"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/vite-logo.svg
+    - name: CSS3
+      color: "#2c51db"
+      icon: https://bu.dusays.com/2023/04/21/644284024536b.webp # /img/creativity/css.webp
+    - name: JS
+      color: "#f7cb4f"
+      icon: https://bu.dusays.com/2023/04/21/6442840245873.webp # /img/creativity/js.webp
+    - name: HTML
+      color: "#e9572b"
+      icon: https://bu.dusays.com/2023/04/21/6442840244ea8.webp # /img/creativity/html.webp
+    - name: Git
+      color: "#df5b40"
+      icon: https://bu.dusays.com/2023/04/21/6442840245495.webp # /img/creativity/git.webp
+    - name: vue
+      color: "#b8f0ae"
+      icon: https://bu.dusays.com/2023/04/09/643293b6788bd.png # /img/creativity/vue.png
+    - name: React
+      color: "#222"
+      icon: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K
+    - name: Docker
+      color: "#57b6e6"
+      icon: https://bu.dusays.com/2023/04/28/644bdead5d78f.webp # /img/creativity/docker.webp
+    - name: Photoshop
+      color: "#4082c3"
+      icon: https://bu.dusays.com/2023/04/28/644bdead69ce6.webp # /img/creativity/ps.webp
+    - name: Node
+      color: "#333"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.1.1/img/svg/node-logo.svg
+    - name: Python
+      color: "#000"
+      icon: https://bu.dusays.com/2023/04/28/644bdead6dc5f.webp # /img/creativity/py.webp
+    - name: Vite
+      color: "#937df7"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/vite-logo.svg
+    - name: CSS3
+      color: "#2c51db"
+      icon: https://bu.dusays.com/2023/04/21/644284024536b.webp # /img/creativity/css.webp
+    - name: JS
+      color: "#f7cb4f"
+      icon: https://bu.dusays.com/2023/04/21/6442840245873.webp # /img/creativity/js.webp
+    - name: HTML
+      color: "#e9572b"
+      icon: https://bu.dusays.com/2023/04/21/6442840244ea8.webp # /img/creativity/html.webp
+    - name: Git
+      color: "#df5b40"
+      icon: https://bu.dusays.com/2023/04/21/6442840245495.webp # /img/creativity/git.webp
+    - name: vue
+      color: "#b8f0ae"
+      icon: https://bu.dusays.com/2023/04/09/643293b6788bd.png # /img/creativity/vue.png
+    - name: React
+      color: "#222"
+      icon: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K
+    - name: Docker
+      color: "#57b6e6"
+      icon: https://bu.dusays.com/2023/04/28/644bdead5d78f.webp # /img/creativity/docker.webp
+    - name: Photoshop
+      color: "#4082c3"
+      icon: https://bu.dusays.com/2023/04/28/644bdead69ce6.webp # /img/creativity/ps.webp
+    - name: Node
+      color: "#333"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.1.1/img/svg/node-logo.svg
+    - name: Python
+      color: "#000"
+      icon: https://bu.dusays.com/2023/04/28/644bdead6dc5f.webp # /img/creativity/py.webp
+    - name: Vite
+      color: "#937df7"
+      icon: https://npm.elemecdn.com/anzhiyu-blog@2.0.8/img/svg/vite-logo.svg
+    - name: CSS3
+      color: "#2c51db"
+      icon: https://bu.dusays.com/2023/04/21/644284024536b.webp # /img/creativity/css.webp
+    - name: JS
+      color: "#f7cb4f"
+      icon: https://bu.dusays.com/2023/04/21/6442840245873.webp # /img/creativity/js.webp
+    - name: HTML
+      color: "#e9572b"
+      icon: https://bu.dusays.com/2023/04/21/6442840244ea8.webp # /img/creativity/html.webp
+    - name: Git
+      color: "#df5b40"
+      icon: https://bu.dusays.com/2023/04/21/6442840245495.webp # /img/creativity/git.webp

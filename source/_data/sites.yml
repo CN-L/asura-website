@@ -1,0 +1,11 @@
+- class_name: 站长推荐
+  link_list: # 构建友链列表
+    - name: github
+      link: https://github.com/
+      avatar: https://bitemycoin.com/wp-content/uploads/2018/06/GitHub-Logo.png
+    - name: 致美化
+      link: https://zhutix.com/
+      avatar: https://imyshare.com/media/navigation/zhutix.png
+    - name: hexo
+      link: https://hexo.io/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
