@@ -216,11 +216,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://ezgx.site/img/avatar.png
+favicon: https://www.wasailei.top/img/avatar.png
 
 # Avatar (頭像)
 avatar:
-  img: https://ezgx.site/img/avatar.png
+  img: https://www.wasailei.top/img/avatar.png
   effect: false
 
 # Disable all banner image
