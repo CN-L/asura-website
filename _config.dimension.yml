@@ -276,7 +276,7 @@ post_meta:
     date_type: both # created or updated or both 文章頁日期是創建日或者更新日或都顯示
     date_format: date # date/relative 顯示日期還是相對日期
     categories: false # true or false 文章頁是否顯示分類
-    tags: true # true or false 文章頁是否顯示標籤
+    tags: false # true or false 文章頁是否顯示標籤
     label: true # true or false 顯示描述性文字
 
 # wordcount (字數統計)
@@ -385,6 +385,7 @@ comments:
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
   use:
     # - twikoo
+    - valine
     - waline
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
@@ -436,15 +437,15 @@ gitalk:
 # valine
 # https://valine.js.org
 valine:
-  appId:
-  appKey:
+  appId: $LEAN_ID
+  appKey: $LEAN_KEY
   avatar: retro # gravatar style https://valine.js.org/#/avatar
-  serverURLs: https://valine.ezgx.site/ # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
+  # serverURLs: walineserver.wasailei.top # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
   bg: # valine background
   visitor: false
   option:
   enableQQ: true
-  masterS: 3387251845@qq.com
+  masterS: 1396595541@qq.com
   friendS:
     - 1043865083@qq.com
     - 1172576293@qq.com
