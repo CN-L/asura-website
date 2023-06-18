@@ -15,14 +15,14 @@ menu:
     留言: /comments/ || fas fa-comments
     博主QQ: /authorqq/ || fab fa-qq
     博主微信: /authorwechat/ || fab fa-weixin
-    QQ群: /qqgroup/ || fas fa-user-group
-    github: https://github.com/ezgx || fab fa-github
+    # QQ群: /qqgroup/ || fas fa-user-group
+    github: https://github.com/CN-L || fab fa-github
   # 关于
   我的||: # fas fa-address-card
     协议: /cc/ || fab fa-creative-commons
     主题: https://dimension.ezgx.site/ || fas fa-wand-magic-sparkles
     关于: /about/ || fas fa-heart
-    主页: https://home.ezgx.site || fas fa-house-user
+    主页: https://www.wasailei.top || fas fa-house-user
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -80,7 +80,7 @@ footer:
     enable: true
     left:
       - icon: fa-solid fa-compass
-        link: https://home.ezgx.site/
+        link: https://www.wasailei.top
         desrc: 个人主页
         class: out
       - icon: fa-brands fa-qq
@@ -108,7 +108,7 @@ footer:
   line_1_title: 直达
   line_1:
     item_1:
-      link: https://home.ezgx.site
+      link: https://www.wasailei.top
       name: 个人主页
     item_2:
       link: /about/
