@@ -461,11 +461,11 @@ waline:
   pageSize: 10
   lang: zh-cn
   visitor: true #文章阅读计数
-  requiredFields: []
+  # requiredFields: ['name', 'email']
   script: //cdn.jsdelivr.net/npm/waline@1.0.14/dist/Waline.min.js
   serverURL: waline-server-ten-ashy.vercel.app
   pageview: true
-#   option:
+  option:
 # utterances
 # https://utteranc.es/
 utterances:
