@@ -1,1 +1,1 @@
-var posts=["2023/06/17/hello-world/","2023/06/17/event_loop/"];function toRandomPost(){window.open('/'+posts[Math.floor(Math.random() * posts.length)],"_self");};
+var posts=["2023/06/17/hello-world/","2023/06/17/event_loop/","2023/06/18/hooks-keyup/"];function toRandomPost(){window.open('/'+posts[Math.floor(Math.random() * posts.length)],"_self");};
