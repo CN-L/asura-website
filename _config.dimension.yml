@@ -463,7 +463,7 @@ waline:
   visitor: true #文章阅读计数
   # requiredFields: ['name', 'email']
   script: //cdn.jsdelivr.net/npm/waline@1.0.14/dist/Waline.min.js
-  serverURL: waline-server-ten-ashy.vercel.app
+  serverURL: walineserver.wasailei.top
   pageview: true
   option:
 # utterances
