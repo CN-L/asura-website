@@ -319,7 +319,7 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: https://i.postimg.cc/8FJSK20Y/wechatpay.jpg
+    - img: /img/wechatpay.JPG
       link: https://i.postimg.cc/9f1QMVtc/wechatpay.jpg
       text: 微信
 
